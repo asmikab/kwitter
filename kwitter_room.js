@@ -24,7 +24,7 @@ function addroom(){
      });
      
      localStorage.setItem("room",roomname);
-     window.location="room.html"
+     window.location="kwitter_page.html"
 
 
 }
